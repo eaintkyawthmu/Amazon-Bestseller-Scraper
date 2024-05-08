@@ -2,7 +2,7 @@
 # Amazon Bestseller Scraper
 
 
-<a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>  <a href="https://github.com/eaintkyawthmu" target="_blank"><img alt="Eaint" src="https://img.shields.io/badge/Author-AngelicML-blue.svg" style="display: inherit;"/></a>
+<a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>  <a href="https://github.com/eaintkyawthmu" target="_blank"><img alt="Eaint" src="https://img.shields.io/badge/Author-Eaint-blue.svg" style="display: inherit;"/></a>
 
 ## About the Project
 
